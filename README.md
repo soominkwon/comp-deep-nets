@@ -1,2 +1,2 @@
-# comp-deep-nets
-Official implementation of "Efficient Low-Dimensional Compression of Overparameterized Networks"
+# Compressed-DLN
+Official implementation of compressed deep linear networks for learning low-dimensional models.
